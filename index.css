@@ -1,4 +1,3 @@
-
 #topbar {
   background-color: aquamarine;
   height: 20px;
@@ -14,8 +13,6 @@ body {
   display: flex;
   flex-direction: row;
   align-items: center;
-  
-  
 }
 #header img {
   height: 80px;
@@ -26,58 +23,53 @@ body {
   display: inline;
   margin-right: 3vw;
   margin-left: 3vw;
-  
 }
 #header ul li a {
   color: grey;
   text-decoration: none;
   font-size: 18px;
 }
-#welcome{
-    color: red;
-    font-size: 40px;
-    margin-left: 2vw;
-    
-   
+#welcome {
+  color: red;
+  font-size: 40px;
+  margin-left: 2vw;
 }
-#img{
-    width: 100vw;
-   
-    height: 50bvh;
-   
+#img {
+  width: 100vw;
+
+  height: 50bvh;
 }
-#footer{
-    display: flex;
-    background-color: aquamarine;
-    align-items: center;
-    justify-content: center;
+#footer {
+  display: flex;
+  background-color: aquamarine;
+  align-items: center;
+  justify-content: center;
 }
-#text{
-    width: 100vw;
-    height: 200px;
-    margin-left: 40vw;
-    position: absolute;
+#text {
+  width: 100vw;
+  height: 200px;
+  margin-left: 40vw;
+  position: absolute;
 }
-#search{
-    width: 400px;
-    height: 30px;
-    border-radius: 15px;
+#search {
+  width: 400px;
+  height: 30px;
+  border-radius: 15px;
 }
-#login{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    background-color: ;
-    
+#login {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color:GREY ;
 }
-#name{
-    margin-left: 23px;
+#name {
+  margin-left: 23px;
 }
-#email{
-    margin-left: 13px;
+#email {
+  margin-left: 13px;
 }
-button{
+button {
   width: 80px;
   height: 30px;
   border-radius: 10px;
